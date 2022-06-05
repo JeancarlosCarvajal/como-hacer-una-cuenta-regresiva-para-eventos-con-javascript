@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+    margin-top: 250px;
+} 
+.input {
+    margin-bottom: 10px;
+    width: 250px;
+}
+.input:focus-visible {
+    outline-offset: 0px;
+}
+.flex{
+    display: flex!important;
+}
+.text-center{
+    text-align: center!important;
+}
+.justify-center {
+    justify-content: center;
+}
+.regresiva {
+    list-style: none;
+    column-gap: 20px;
+}
